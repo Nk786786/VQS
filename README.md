@@ -1,8 +1,7 @@
-# Project 
-Virtual Quiz System
-
+# Project: Virtual Quiz System
 # MOHD NAVAID
 # MCA FINAL YEAR
 # ALIGARH MUSLIM UNIVERSITY, ALIGARH
+
 
 
